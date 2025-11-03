@@ -15,7 +15,7 @@ export default function PetCard({ name, species, age, color, breed }: PetCardPro
   else if (species === "Fish") emoji = "🐠"
 
   return (
-    <div className="bg-green rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow">
+    <div className="bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow">
       <div className="flex items-center mb-4">
         <span className="text-4xl mr-3">{emoji}</span>
         <h2 className="text-2xl font-bold text-gray-800">{name}</h2>
