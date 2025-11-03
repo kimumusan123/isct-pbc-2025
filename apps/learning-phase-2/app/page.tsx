@@ -12,7 +12,7 @@ type Pet = {
 export default function Home() {
   const pets: Pet[] = [
     {
-      name: "Pochi",
+      name: "Shiro",
       species: "Dog",
       age: 3,
       color: "Brown",
