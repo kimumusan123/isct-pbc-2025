@@ -1,7 +1,7 @@
    # Team Notes
 
    ## Today's Goal
-   Build the pet management features
+ Build the pet management **dashboard**
 
    ## Assigned Tasks
    - Feature 1: TBD
